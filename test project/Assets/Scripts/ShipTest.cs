@@ -26,8 +26,8 @@ public class ShipTest : MonoBehaviour
         yaw = Input.GetAxis("Fire2");
 
         rb.AddRelativeForce(Vector3.up * Time.deltaTime * speed * throttle, ForceMode.VelocityChange);
-        transform.Rotate(Vector3.forward * upMovement * Time.deltaTime * RotateVal, Space.Self); //rotates palane up or down
+        transform.Rotate(Vector3.right * upMovement * Time.deltaTime * RotateVal, Space.Self); //rotates palane up or down
         transform.Rotate(Vector3.up * -sideMovement * Time.deltaTime * RotateVal, Space.Self); //rolls p-lane left to right
-        transform.Rotate(Vector3.right * -yaw * Time.deltaTime * RotateVal, Space.Self);
+        transform.Rotate(Vector3.forward * yaw * Time.deltaTime * RotateVal, Space.Self);
     }
 }
