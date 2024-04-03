@@ -41,10 +41,17 @@ InputManager:
     m_Name: Fire1
     descriptiveName: 
     descriptiveNegativeName: 
+<<<<<<< HEAD
     negativeButton: 
     positiveButton: left ctrl
     altNegativeButton: 
     altPositiveButton: mouse 0
+=======
+    negativeButton: left ctrl
+    positiveButton: left shift
+    altNegativeButton: 
+    altPositiveButton: 
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     gravity: 1000
     dead: 0.001
     sensitivity: 1000
@@ -57,8 +64,13 @@ InputManager:
     m_Name: Fire2
     descriptiveName: 
     descriptiveNegativeName: 
+<<<<<<< HEAD
     negativeButton: 
     positiveButton: left alt
+=======
+    negativeButton: e
+    positiveButton: q
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     altNegativeButton: 
     altPositiveButton: mouse 1
     gravity: 1000
