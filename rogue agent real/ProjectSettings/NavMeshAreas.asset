@@ -86,8 +86,11 @@ NavMeshProjectSettings:
     tileSize: 256
     accuratePlacement: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     maxJobWorkers: 0
     preserveTilesOutsideBounds: 0
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     debug:
