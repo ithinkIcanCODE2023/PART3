@@ -20,7 +20,11 @@ QualitySettings:
     shadowmaskMode: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     skinWeights: 1
+=======
+    blendWeights: 1
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
     blendWeights: 1
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -50,7 +54,10 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
@@ -70,7 +77,11 @@ QualitySettings:
     shadowmaskMode: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     skinWeights: 2
+=======
+    blendWeights: 2
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
     blendWeights: 2
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -100,7 +111,10 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
@@ -120,7 +134,11 @@ QualitySettings:
     shadowmaskMode: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     skinWeights: 2
+=======
+    blendWeights: 2
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
     blendWeights: 2
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -150,7 +168,10 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
@@ -170,7 +191,11 @@ QualitySettings:
     shadowmaskMode: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     skinWeights: 2
+=======
+    blendWeights: 2
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
     blendWeights: 2
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -200,7 +225,10 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
@@ -220,7 +248,11 @@ QualitySettings:
     shadowmaskMode: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     skinWeights: 4
+=======
+    blendWeights: 4
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
     blendWeights: 4
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -250,7 +282,10 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
@@ -270,7 +305,11 @@ QualitySettings:
     shadowmaskMode: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     skinWeights: 255
+=======
+    blendWeights: 4
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
     blendWeights: 4
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -300,6 +339,7 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
@@ -314,6 +354,8 @@ QualitySettings:
 =======
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
     Android: 2
@@ -323,6 +365,9 @@ QualitySettings:
     PS4: 5
     PSP2: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)

@@ -14,7 +14,10 @@ AudioManager:
   m_RealVoiceCount: 32
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_EnableOutputSuspension: 1
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
@@ -25,7 +28,11 @@ AudioManager:
   m_VirtualizeEffects: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RequestedDSPBufferSize: 0
+=======
+  m_RequestedDSPBufferSize: 1024
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   m_RequestedDSPBufferSize: 1024
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)

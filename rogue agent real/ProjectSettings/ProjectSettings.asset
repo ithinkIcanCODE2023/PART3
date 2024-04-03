@@ -6,7 +6,11 @@ PlayerSettings:
   serializedVersion: 22
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   productGUID: 6710fcc9c6b96eb42ba6c9c893ebc971
+=======
+  productGUID: d8ad04fceaddaaf409baf3ff7778e99e
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   productGUID: d8ad04fceaddaaf409baf3ff7778e99e
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -23,7 +27,11 @@ PlayerSettings:
   companyName: DefaultCompany
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   productName: rogue agent real
+=======
+  productName: test project
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   productName: test project
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -60,8 +68,13 @@ PlayerSettings:
   m_HolographicTrackingLossScreen: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   defaultScreenWidth: 1920
   defaultScreenHeight: 1080
+=======
+  defaultScreenWidth: 1024
+  defaultScreenHeight: 768
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
@@ -98,7 +111,11 @@ PlayerSettings:
   macRetinaSupport: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   runInBackground: 0
+=======
+  runInBackground: 1
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   runInBackground: 1
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -121,7 +138,11 @@ PlayerSettings:
   macAppStoreCategory: public.app-category.games
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   gpuSkinning: 0
+=======
+  gpuSkinning: 1
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   gpuSkinning: 1
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -151,7 +172,11 @@ PlayerSettings:
   xboxOnePresentImmediateThreshold: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   switchQueueCommandMemory: 1048576
+=======
+  switchQueueCommandMemory: 0
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   switchQueueCommandMemory: 0
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -179,7 +204,11 @@ PlayerSettings:
     Others: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   bundleVersion: 1.0
+=======
+  bundleVersion: 0.1
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   bundleVersion: 0.1
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -201,7 +230,11 @@ PlayerSettings:
   m_ColorGamuts: 00000000
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   targetPixelDensity: 0
+=======
+  targetPixelDensity: 30
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   targetPixelDensity: 30
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -214,8 +247,11 @@ PlayerSettings:
   applicationIdentifier: {}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   buildNumber: {}
 =======
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
   buildNumber:
@@ -223,6 +259,9 @@ PlayerSettings:
     iPhone: 0
     tvOS: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -242,6 +281,7 @@ PlayerSettings:
   keepLoadedShadersAlive: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   StripUnusedMeshComponents: 0
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
@@ -252,6 +292,8 @@ PlayerSettings:
 =======
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
   StripUnusedMeshComponents: 1
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
@@ -260,6 +302,9 @@ PlayerSettings:
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 11.0
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -318,9 +363,15 @@ PlayerSettings:
   shaderPrecisionModel: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   clonedFromGUID: 00000000000000000000000000000000
   templatePackageId: 
   templateDefaultScene: 
+=======
+  clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
+  templatePackageId: com.unity.template.3d@5.0.4
+  templateDefaultScene: Assets/Scenes/SampleScene.unity
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
   templatePackageId: com.unity.template.3d@5.0.4
@@ -364,12 +415,15 @@ PlayerSettings:
   m_BuildTargetPlatformIcons: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_BuildTargetBatching: []
   m_BuildTargetGraphicsJobs: []
   m_BuildTargetGraphicsJobMode: []
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings: []
 =======
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
   m_BuildTargetBatching:
@@ -440,6 +494,9 @@ PlayerSettings:
     - Oculus
     - OpenVR
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -633,7 +690,11 @@ PlayerSettings:
   ps4PlayTogetherPlayerCount: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   ps4EnterButtonAssignment: 2
+=======
+  ps4EnterButtonAssignment: 1
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   ps4EnterButtonAssignment: 1
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -664,7 +725,11 @@ PlayerSettings:
   ps4SocialScreenEnabled: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   ps4ScriptOptimizationLevel: 2
+=======
+  ps4ScriptOptimizationLevel: 0
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   ps4ScriptOptimizationLevel: 0
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -697,7 +762,11 @@ PlayerSettings:
   spritePackerPolicy: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   webGLMemorySize: 32
+=======
+  webGLMemorySize: 16
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   webGLMemorySize: 16
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -715,7 +784,11 @@ PlayerSettings:
   webGLUseEmbeddedResources: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   webGLCompressionFormat: 0
+=======
+  webGLCompressionFormat: 1
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   webGLCompressionFormat: 1
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -728,8 +801,11 @@ PlayerSettings:
   webGLDecompressionFallback: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   scriptingDefineSymbols: {}
 =======
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
   scriptingDefineSymbols:
@@ -747,6 +823,9 @@ PlayerSettings:
     32: UNITY_POST_PROCESSING_STACK_V2
     33: UNITY_POST_PROCESSING_STACK_V2
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -771,7 +850,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   metroPackageName: rogue agent real
+=======
+  metroPackageName: Template_3D
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   metroPackageName: Template_3D
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -786,7 +869,11 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   metroApplicationDescription: rogue agent real
+=======
+  metroApplicationDescription: Template_3D
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   metroApplicationDescription: Template_3D
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -841,7 +928,12 @@ PlayerSettings:
   vrEditorSettings: {}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   cloudServicesEnabled: {}
+=======
+  cloudServicesEnabled:
+    UNet: 1
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   cloudServicesEnabled:
     UNet: 1

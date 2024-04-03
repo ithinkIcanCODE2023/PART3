@@ -43,6 +43,7 @@ InputManager:
     descriptiveNegativeName: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     negativeButton: 
     positiveButton: left ctrl
     altNegativeButton: 
@@ -50,11 +51,16 @@ InputManager:
 =======
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     negativeButton: left ctrl
     positiveButton: left shift
     altNegativeButton: 
     altPositiveButton: 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -72,8 +78,13 @@ InputManager:
     descriptiveNegativeName: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     negativeButton: 
     positiveButton: left alt
+=======
+    negativeButton: e
+    positiveButton: q
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
     negativeButton: e
     positiveButton: q

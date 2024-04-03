@@ -5,6 +5,7 @@ PhysicsManager:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   serializedVersion: 13
   m_Gravity: {x: 0, y: -9.81, z: 0}
   m_DefaultMaterial: {fileID: 0}
@@ -13,11 +14,16 @@ PhysicsManager:
 =======
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
   serializedVersion: 11
   m_Gravity: {x: 0, y: -9.81, z: 0}
   m_DefaultMaterial: {fileID: 0}
   m_BounceThreshold: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
+=======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
@@ -30,8 +36,13 @@ PhysicsManager:
   m_EnableAdaptiveForce: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ClothInterCollisionDistance: 0.1
   m_ClothInterCollisionStiffness: 0.2
+=======
+  m_ClothInterCollisionDistance: 0
+  m_ClothInterCollisionStiffness: 0
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   m_ClothInterCollisionDistance: 0
   m_ClothInterCollisionStiffness: 0
@@ -46,9 +57,14 @@ PhysicsManager:
   m_AutoSyncTransforms: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ReuseCollisionCallbacks: 0
   m_ClothInterCollisionSettingsToggle: 0
   m_ClothGravity: {x: 0, y: -9.81, z: 0}
+=======
+  m_ReuseCollisionCallbacks: 1
+  m_ClothInterCollisionSettingsToggle: 0
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   m_ReuseCollisionCallbacks: 1
   m_ClothInterCollisionSettingsToggle: 0
@@ -68,8 +84,12 @@ PhysicsManager:
   m_EnableUnifiedHeightmaps: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_SolverType: 0
   m_DefaultMaxAngularSpeed: 50
+=======
+  m_DefaultMaxAngluarSpeed: 7
+>>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
 =======
   m_DefaultMaxAngluarSpeed: 7
 >>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
