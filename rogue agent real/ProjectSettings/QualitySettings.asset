@@ -18,19 +18,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    skinWeights: 1
-=======
     blendWeights: 1
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 1
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 1
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     textureQuality: 1
     anisotropicTextures: 0
     antiAliasing: 0
@@ -52,16 +40,6 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    customRenderPipeline: {fileID: 0}
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Low
@@ -75,19 +53,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    skinWeights: 2
-=======
     blendWeights: 2
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 2
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 2
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     textureQuality: 0
     anisotropicTextures: 0
     antiAliasing: 0
@@ -109,16 +75,6 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    customRenderPipeline: {fileID: 0}
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Medium
@@ -132,19 +88,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    skinWeights: 2
-=======
     blendWeights: 2
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 2
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 2
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     textureQuality: 0
     anisotropicTextures: 1
     antiAliasing: 0
@@ -166,16 +110,6 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    customRenderPipeline: {fileID: 0}
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: High
@@ -189,19 +123,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    skinWeights: 2
-=======
     blendWeights: 2
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 2
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 2
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     textureQuality: 0
     anisotropicTextures: 1
     antiAliasing: 0
@@ -223,16 +145,6 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    customRenderPipeline: {fileID: 0}
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Very High
@@ -246,19 +158,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    skinWeights: 4
-=======
     blendWeights: 4
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 4
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 4
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     textureQuality: 0
     anisotropicTextures: 2
     antiAliasing: 2
@@ -280,16 +180,6 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    customRenderPipeline: {fileID: 0}
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Ultra
@@ -303,19 +193,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    skinWeights: 255
-=======
     blendWeights: 4
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 4
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
-    blendWeights: 4
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     textureQuality: 0
     anisotropicTextures: 2
     antiAliasing: 2
@@ -337,25 +215,6 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    customRenderPipeline: {fileID: 0}
-    excludedTargetPlatforms: []
-  m_PerPlatformDefaultQuality:
-    Android: 2
-    CloudRendering: 5
-    GameCoreScarlett: 5
-    GameCoreXboxOne: 5
-    Lumin: 5
-    Nintendo Switch: 5
-    PS4: 5
-    PS5: 5
-=======
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
     Android: 2
@@ -364,13 +223,6 @@ QualitySettings:
     Nintendo Switch: 5
     PS4: 5
     PSP2: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
-=======
->>>>>>> parent of 8cc3567 (Merge branch 'main' of https://github.com/ithinkIcanCODE2023/PART3)
     Stadia: 5
     Standalone: 5
     WebGL: 3
