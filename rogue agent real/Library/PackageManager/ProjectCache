@@ -1,19 +1,23 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/C1102444/Desktop/PART3/rogue agent real/Packages/manifest.json
+    m_FilePath: C:/Users/k2203520/Downloads/PART3-main/PART3/rogue agent real/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638477609948864547
+      ticks: 638469845776160677
     m_Hash: 4007186375
   m_LockFileStatus:
-    m_FilePath: C:/Users/C1102444/Desktop/PART3/rogue agent real/Packages/packages-lock.json
+    m_FilePath: C:/Users/k2203520/Downloads/PART3-main/PART3/rogue agent real/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638477621085344586
+=======
+      ticks: 638478487337840013
+>>>>>>> f9ed7d24321b05b92c1a6e0831503e9bf4c73090
     m_Hash: 38571225
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +29,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\k2203520\Downloads\PART3-main\PART3\rogue agent real\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -112,7 +116,6 @@ m_PackageAssets:
         - 2.1.0-preview.6
         - 2.1.0
         - 2.2.0
-        - 2.3.1
         compatible:
         - 1.3.9
         - 1.4.9
@@ -182,7 +185,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\k2203520\Downloads\PART3-main\PART3\rogue agent real\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -240,7 +243,6 @@ m_PackageAssets:
         - 3.0.25
         - 3.0.26
         - 3.0.27
-        - 3.0.28
         compatible:
         - 1.0.2
         - 1.0.6
@@ -283,7 +285,6 @@ m_PackageAssets:
         - 3.0.25
         - 3.0.26
         - 3.0.27
-        - 3.0.28
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -323,7 +324,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+      resolvedPath: C:\Users\k2203520\Downloads\PART3-main\PART3\rogue agent real\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -428,7 +429,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\k2203520\Downloads\PART3-main\PART3\rogue agent real\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -501,7 +502,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.22
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.test-framework@1.1.22
+      resolvedPath: C:\Users\k2203520\Downloads\PART3-main\PART3\rogue agent real\Library\PackageCache\com.unity.test-framework@1.1.22
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -636,7 +637,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\k2203520\Downloads\PART3-main\PART3\rogue agent real\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -761,7 +762,6 @@ m_PackageAssets:
         - 3.2.0-pre.6
         - 3.2.0-pre.7
         - 3.2.0-pre.8
-        - 3.2.0-pre.9
         - 4.0.0-pre.1
         - 4.0.0-pre.2
         compatible:
@@ -780,7 +780,6 @@ m_PackageAssets:
         - 3.2.0-pre.6
         - 3.2.0-pre.7
         - 3.2.0-pre.8
-        - 3.2.0-pre.9
         verified: 3.0.8
       dependencies:
       - name: com.unity.ugui
@@ -823,7 +822,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.6
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.timeline@1.4.6
+      resolvedPath: C:\Users\k2203520\Downloads\PART3-main\PART3\rogue agent real\Library\PackageCache\com.unity.timeline@1.4.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2822,7 +2821,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\k2203520\Downloads\PART3-main\PART3\rogue agent real\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2831,34 +2830,16 @@ m_PackageAssets:
         email: 
         url: 
       category: Libraries
-      type: asset
+      type: 
       description: Custom version of the nunit package build to work with Unity.
         Used by the Unity Test Framework.
       status: 4
       errors: []
       versions:
         all:
-        - 0.1.5-preview
-        - 0.1.6-preview
-        - 0.1.9-preview
-        - 1.0.0
-        - 1.0.5
         - 1.0.6
-        - 2.0.2
-        - 2.0.3
-        - 2.0.4
-        - 2.0.5
         compatible:
-        - 0.1.5-preview
-        - 0.1.6-preview
-        - 0.1.9-preview
-        - 1.0.0
-        - 1.0.5
         - 1.0.6
-        - 2.0.2
-        - 2.0.3
-        - 2.0.4
-        - 2.0.5
         verified: 1.0.6
       dependencies: []
       resolvedDependencies: []
@@ -2874,11 +2855,11 @@ m_PackageAssets:
         isDefault: 1
         capabilities: 7
       hasRegistry: 1
-      hideInEditor: 0
+      hideInEditor: 1
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637429759280000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -2888,5 +2869,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/C1102444/Desktop/PART3/rogue agent real/Packages
+m_ProjectPath: C:/Users/k2203520/Downloads/PART3-main/PART3/rogue agent real/Packages
 m_EditorVersion: 2020.3.0f1 (c7b5465681fb)
