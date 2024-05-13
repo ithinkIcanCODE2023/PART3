@@ -1,20 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/C1102444/Desktop/PART3/rogue agent real/Packages/manifest.json
+    m_FilePath: C:/Users/migue/Documents/GitHub/PART3/rogue agent real/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638477609948864547
-    m_Hash: 4007186375
+      ticks: 638511563157328324
+    m_Hash: 1923517307
   m_LockFileStatus:
-    m_FilePath: C:/Users/C1102444/Desktop/PART3/rogue agent real/Packages/packages-lock.json
+    m_FilePath: C:/Users/migue/Documents/GitHub/PART3/rogue agent real/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638506992714674030
-    m_Hash: 38571225
+      ticks: 638511563645747373
+    m_Hash: 2811437231
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\migue\Documents\GitHub\PART3\rogue agent real\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -182,7 +182,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\migue\Documents\GitHub\PART3\rogue agent real\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -323,7 +323,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+      resolvedPath: C:\Users\migue\Documents\GitHub\PART3\rogue agent real\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -428,7 +428,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\migue\Documents\GitHub\PART3\rogue agent real\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -496,12 +496,107 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
+    - packageId: com.unity.postprocessing@2.3.0
+      testable: 0
+      isDirectDependency: 1
+      version: 2.3.0
+      source: 1
+      resolvedPath: C:\Users\migue\Documents\GitHub\PART3\rogue agent real\Library\PackageCache\com.unity.postprocessing@2.3.0
+      assetPath: Packages/com.unity.postprocessing
+      name: com.unity.postprocessing
+      displayName: Post Processing
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: asset
+      description: The post-processing stack (v2) comes with a collection of effects
+        and image filters you can apply to your cameras to improve the visuals of
+        your games.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.7
+        - 0.1.8
+        - 2.0.0-beta
+        - 2.0.1-beta
+        - 2.0.2-preview
+        - 2.0.3-preview
+        - 2.0.5-preview
+        - 2.0.7-preview
+        - 2.0.8-preview
+        - 2.0.9-preview
+        - 2.0.10-preview
+        - 2.0.11-preview
+        - 2.0.12-preview
+        - 2.0.13-preview
+        - 2.0.14-preview
+        - 2.0.15-preview
+        - 2.0.16-preview
+        - 2.0.17-preview
+        - 2.1.0
+        - 2.1.1
+        - 2.1.2
+        - 2.1.3
+        - 2.1.4
+        - 2.1.5
+        - 2.1.6
+        - 2.1.7
+        - 2.2.1
+        - 2.2.2
+        - 2.3.0
+        - 3.0.1
+        - 3.0.3
+        - 3.1.0
+        - 3.1.1
+        - 3.2.0
+        - 3.2.1
+        - 3.2.2
+        - 3.3.0
+        - 3.4.0
+        compatible:
+        - 2.3.0
+        - 3.0.1
+        - 3.0.3
+        - 3.1.0
+        - 3.1.1
+        - 3.2.0
+        - 3.2.1
+        - 3.2.2
+        - 3.3.0
+        - 3.4.0
+        verified: 3.0.3
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637144563160000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git@github.com:Unity-Technologies/PostProcessing.git
+        revision: e6de985c41f04a5fc7c7227dd67e3e73fac834e7
+        path: 
     - packageId: com.unity.test-framework@1.1.22
       testable: 0
       isDirectDependency: 1
       version: 1.1.22
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.test-framework@1.1.22
+      resolvedPath: C:\Users\migue\Documents\GitHub\PART3\rogue agent real\Library\PackageCache\com.unity.test-framework@1.1.22
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -633,12 +728,12 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
         revision: 56c667cbc326a1cbab8dfd7ebc693a1121d0abe1
         path: 
-    - packageId: com.unity.textmeshpro@3.0.1
+    - packageId: com.unity.textmeshpro@3.0.6
       testable: 0
       isDirectDependency: 1
-      version: 3.0.1
+      version: 3.0.6
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\migue\Documents\GitHub\PART3\rogue agent real\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -812,20 +907,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314376320000000
+      datePublishedTicks: 637547111200000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
-        revision: 1604b62e543216408311bcd1355a7a9ca1e65765
+        revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
         path: 
     - packageId: com.unity.timeline@1.4.6
       testable: 0
       isDirectDependency: 1
       version: 1.4.6
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.timeline@1.4.6
+      resolvedPath: C:\Users\migue\Documents\GitHub\PART3\rogue agent real\Library\PackageCache\com.unity.timeline@1.4.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2824,7 +2919,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\C1102444\Desktop\PART3\rogue agent real\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\migue\Documents\GitHub\PART3\rogue agent real\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2890,5 +2985,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/C1102444/Desktop/PART3/rogue agent real/Packages
+m_ProjectPath: C:/Users/migue/Documents/GitHub/PART3/rogue agent real/Packages
 m_EditorVersion: 2020.3.0f1 (c7b5465681fb)
